@@ -1,0 +1,13 @@
+**Owner** » Owner of the A3! Wiki, A3! Wiki Twitter, and Discord server (pays for domain and hosting)
+
+**OP** » Server Administrator
+
+**Discord Mod** » Server Moderator
+
+**Wiki Admin** » Wiki user with higher permissions
+
+**FTP Access** » Has file transfer protocol access on the Wiki
+
+**News Team** » Writes and sends A3!Wiki tweets, can post directly to #en-twitter-feed
+
+**Translator** » Anyone who translates A3! content or uses their Japanese language skills to help with translation
