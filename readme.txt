@@ -11,3 +11,6 @@
 - if the character count for any of these text files exceeds 2048 characters, the embed won't send
 - even the slightest syntax errors can cause the embed not to send
 - github is slow and sometimes it can take even 10-15 minutes before the raw content in the text files refresh, so wait a little while before sending the .refreshRules command after making updates to the text files here
+
+A3! Discord Owner contact >> https://github.com/yaycupcake
+A3! Discord Bot/Dev contact >> https://github.com/niconicosette
