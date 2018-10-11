@@ -1,0 +1,6 @@
+[Nadeko](https://nadekobot.readthedocs.io) » `.h`
+[FredBoat](https://fredboat.com) » `;;help`
+[Itaru](https://github.com/niconicosette) » `itaru help`
+[Mankaibot](https://github.com/niconicosette) » `mankaibot help`
+
+Head over to <#349047235956310016> and say `mankaibot help` to learn how to get a coloured troupe role for your name! You can also ask Mankaibot for help with the game before taking questions to the main chat.
