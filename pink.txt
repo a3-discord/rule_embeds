@@ -10,6 +10,8 @@ This is a space for both A3! Wiki work and A3! fandom. Please take a moment to r
 
 5) Images of horror, violence, gore, or bodily distortion that may make others uncomfortable are prohibited. This applies to 2D images such as character edits as well.
 
-6) The Wiki's hosting costs $130/yr and the domain costs $15/yr. If you're feeling generous, you can [help by donating](http://yaycupcake.com/a3/index.php?title=Donate). Every small bit helps. All donations go toward site hosting costs at this time.
+6) Sharing official media such as magazine scans and backstage recordings is allowed in `#media-share`, but it is encouraged that you access these through legal means if you are able. This channel is locked by default and accessible to users with the `Media` role.
 
-7) Have fun!
+7) The Wiki's hosting costs $130/yr and the domain costs $15/yr. If you're feeling generous, you can [help by donating](http://yaycupcake.com/a3/index.php?title=Donate). Every small bit helps. All donations go toward site hosting costs at this time.
+
+8) Have fun!
