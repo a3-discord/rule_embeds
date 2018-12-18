@@ -3,4 +3,24 @@
 [Itaru](https://github.com/niconicosette) » `itaru help`
 [Mankaibot](https://github.com/niconicosette) » `mankaibot help`
 
-Head over to <#349047235956310016> and say `mankaibot help` to learn how to get a coloured troupe role for your name! You can also ask Mankaibot for help with the game before taking questions to the main chat.
+You can head over to <#349047235956310016> and say `mankaibot help` for help with the game before taking questions to the main chat. You can also assign yourself troupe roles and channel access roles by reaction to this post with any of the following emojis!
+
+🌸 Spring Troupe - Turns your display name pink
+
+🌻 Summer Troupe - Turns your display name yellow
+
+🍁 Autumn Troupe - Turns your display name orange
+
+🎄 Winter Troupe - Turns your display name blue
+
+🚩 Sankaku - Turns your display name purple
+
+🚨 Spoiler - Get access to the spoilers channel
+
+💿 Media - Get access to the media-share channel
+
+💜 Fancontent - Get access to the fancontent channel
+
+🎮 Gamer - Participate in scheduled group games
+
+🔔 Notifications - Get notifications for news team announcements
